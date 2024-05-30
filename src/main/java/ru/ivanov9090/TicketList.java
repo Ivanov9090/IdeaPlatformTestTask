@@ -1,2 +1,19 @@
-package ru.ivanov9090;public class TicketList {
+package ru.ivanov9090;
+
+/*
+ * Класс, в который происходит парсинг исходного файла. Может быть модифицирован при изменении структуры файла.
+ */
+
+import java.util.List;
+
+public class TicketList {
+    private List<Ticket> tickets;
+
+    public List<Ticket> getTickets() {
+        return tickets;
+    }
+
+    public void setTickets(List<Ticket> tickets) {
+        this.tickets = tickets;
+    }
 }

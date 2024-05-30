@@ -6,7 +6,7 @@ package ru.ivanov9090;
  * Вопрос 2: Разница между средней ценой и медианой для полета между городами Владивосток и Тель-Авив
  */
 
-public class Main {
+public class IdeaPlatformTestTask {
     public static void main(String[] args) {
         Question.question1("tickets.json", "Владивосток", "Тель-Авив");
         Question.question2("tickets.json", "Владивосток", "Тель-Авив");

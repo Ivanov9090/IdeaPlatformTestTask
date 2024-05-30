@@ -1,0 +1,11 @@
+
+	java:S112c"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¤ÌÚÓü1J$2aee95df-9f29-4cc9-85a0-59c095afddc2
+Š
+java:S2184G"BCast one of the operands of this division operation to a "double".(íÄ¬¦ÿÿÿÿÿ8¦ÌÚÓü1J$12c2e552-4432-4af2-8e09-136dd084b4e0
+ˆ
+java:S2184G"@Cast one of the operands of this integer division to a "double".(íÄ¬¦ÿÿÿÿÿ8§ÌÚÓü1J$f22393ad-9275-4a11-9322-721562064620
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(¼ˆ‰ùÿÿÿÿ8·ÌÚÓü1J$37b11b3e-765b-4f6a-9595-50b453465f30
+r	java:S106+"+Replace this use of System.out by a logger.(Ğ»áüÿÿÿÿ8¼ÌÚÓü1J$aac585cf-1c76-4597-a1db-dc4bd5d7072d
+r	java:S106K"+Replace this use of System.out by a logger.(°İÌ£úÿÿÿÿ8õìÓü1J$e07e45a7-4db1-4f36-9075-28a5bf911d1e
+m	java:S106b"+Replace this use of System.out by a logger.(ö¡ƒŸ8¬ƒ£Ôü1J$2a902a9b-42d9-43e4-825b-9212ddf091e2
